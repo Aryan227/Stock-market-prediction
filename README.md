@@ -1,2 +1,2 @@
 # Stock-market-prediction
-Using LSTMs
+Prediction of stock market indices using LSTMs
